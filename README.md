@@ -21,7 +21,7 @@ Default is the provided test.mp4 (if you want to add your own video file, you al
 
 ```source /opt/ros/humble/setup.bash```
 
-```colcon build```
+```colcon build --packages-select yolo_pkg```
 
 ### And, finally, run the ROS Node with
 
