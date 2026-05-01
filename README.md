@@ -47,6 +47,7 @@ Below are some results obtained the aforementioned approach.
 
 ![ROS Topics](ros_topics.png)
 
+[Yolo Rviz street demo.webm](https://github.com/user-attachments/assets/044abe15-53bb-4756-b453-9a46798c5049)
 
 ### Bonus
 
