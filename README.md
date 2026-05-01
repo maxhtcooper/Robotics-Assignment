@@ -43,8 +43,10 @@ I firstly drew a pseudo rqt graph, to have a visualisation of the proposed task.
 
 Below are some results obtained the aforementioned approach.
 
+![RQT Graph](rqt_graph.png)
+
 ![ROS Topics](ros_topics.png)
-<video src="Yolo_Rviz_street_demo.webm" controls="controls" style="max-width: 100%;"></video>
+
 
 ### Bonus
 
